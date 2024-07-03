@@ -1,0 +1,124 @@
+body{
+    font-family:'Roboto', sans-serif;
+    color: #434455;
+    background-color: #FFFFFF;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 2%;
+}
+.logo {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4D5AE5;
+}
+.span {
+    color: #2E2F42;
+}
+
+.header-ul .list .link{
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+}
+.header-ul .list .link:hover,
+.header-ul .list .link:focus{
+    color: #404bbf;
+}
+.address{
+    font-style: normal;
+}
+.address-link .list .link{
+    color: #434455;
+    letter-spacing: 0.02em;
+    line-height: 1.5;
+}
+.address-link .list .link:hover,
+.address-link .list .link:focus{
+    color: #404BBF;
+}
+#section-one{
+    background-color: #2E2F42;
+}
+.section-one-header{
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+}
+.button{
+    font-weight: 500;
+    font-family: 'Roboto', sans-serif;
+    font-size:16px;
+    letter-spacing: 0.04em;
+    line-height: 1.5;
+    background-color: #4D5AE5;
+    color:#FFFFFF;
+    cursor: pointer;
+}
+.button:hover,
+.button:focus{
+    background-color:#404BBF;
+    color: #ffffff;
+}
+
+.section-ul .list{
+    background-color: #FFFFFF;
+}
+
+.section-ul .list .subtitle{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.section-ul .list .text{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+#section-three{
+    background-color: #F4F4FD;
+}
+
+.section-title{
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
+
+footer{
+    background-color: #2E2F42;
+}
+footer .logo{
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size:18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4D5AE5;
+}
+
+footer .logo .span{
+    color: #F4F4FD;
+}
+footer .text{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #F4F4FD;
+}
