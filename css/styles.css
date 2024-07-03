@@ -43,7 +43,7 @@ body{
 .address-link .list .link:focus{
     color: #404BBF;
 }
-#section-one{
+.section-one{
     background-color: #2E2F42;
 }
 .section-one-header{
@@ -87,7 +87,7 @@ body{
     color: #434455;
 }
 
-#section-three{
+.section-three{
     background-color: #F4F4FD;
 }
 
@@ -100,10 +100,10 @@ body{
     color: #2e2f42;
 }
 
-footer{
+.footer{
     background-color: #2E2F42;
 }
-footer .logo{
+.footer .logo{
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size:18px;
@@ -113,10 +113,10 @@ footer .logo{
     color: #4D5AE5;
 }
 
-footer .logo .span{
+.footer .logo .span{
     color: #F4F4FD;
 }
-footer .text{
+.footer .text{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
